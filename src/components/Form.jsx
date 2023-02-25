@@ -1,7 +1,7 @@
 import { addDoc, collection } from "firebase/firestore";
 import { useState } from "react";
 import { MdOutlineAdd } from "react-icons/md";
-import { db } from "./firebase";
+import { db } from "../firebase";
 
 const Form = () => {
   const style = {

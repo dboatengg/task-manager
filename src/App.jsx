@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import Tasks from "./Tasks";
-import Form from "./Form";
+import Tasks from "./components/Tasks";
+import Form from "./components/Form";
 import "./tailwind.css";
 
 import { collection, onSnapshot } from "firebase/firestore";

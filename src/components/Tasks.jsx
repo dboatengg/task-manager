@@ -1,6 +1,6 @@
 import { MdOutlineClose } from "react-icons/md";
 import { AiOutlineCheck } from "react-icons/ai";
-import { db } from "./firebase";
+import { db } from "../firebase";
 import { deleteDoc, doc, updateDoc } from "firebase/firestore";
 
 const Tasks = ({ tasks }) => {
