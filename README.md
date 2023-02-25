@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Task Manager is a simple ToDo application built with React and Firebase. It allows you to create, and delete tasks, and marks them as complete when you're done. The application is easy to use and provides a clean and simple interface.
+Task Manager is a responsive ToDo application built with React and Firebase. It allows you to create, and delete tasks, and marks them as complete when you're done. The application is easy to use and provides a clean and simple interface.
 
 ## Built with
 
