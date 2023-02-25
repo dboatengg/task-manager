@@ -1,4 +1,4 @@
-# Task Manager - A Simple Todo Application
+# Task Manager - A Responsive Todo Application
 
 ![](./src/assets/project__preview.gif)
 
