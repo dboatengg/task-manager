@@ -1,0 +1,12 @@
+.border-image {
+  border-width: 15px;
+  border-image: url("./assets/input__border.png") 40 20 round;
+}
+.task-border-image {
+  border-color: black;
+  border-width: 6px;
+  border-image: url("./assets/task__border.png") 25 25 round;
+}
+p {
+  line-height: 1.3;
+}
