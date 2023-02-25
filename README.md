@@ -61,4 +61,4 @@ If you'd like to contribute to Task Manager, feel free to fork the repository an
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
