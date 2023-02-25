@@ -1,6 +1,6 @@
 # Task Manager - A Simple Todo Application
 
-![](./src/assets/project-preview.png)
+![](./src/assets/project__preview.gif)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,10 +10,6 @@ Task Manager is a simple ToDo application built with React and Firebase. It allo
 
 - ReactJS
 - Firebase
-
-## Demo
-
-Check out the [project](https://www.appname.netlify.app) and see it in action!
 
 ## Getting Started
 
@@ -44,7 +40,6 @@ npm install
 
 - Create a new Firebase project and enable Firestore.
 - Copy Firebase configuration settings into a JavaScript file `firebase.js` within the `src` directory of the project:
-
 
 4.  Start the application:
 
