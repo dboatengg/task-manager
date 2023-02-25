@@ -1,5 +1,7 @@
 # Task Manager - A Simple Todo Application
 
+![](./src/assets/project-preview.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Task Manager is a simple ToDo application built with React and Firebase. It allows you to create, and delete tasks, and marks them as complete when you're done. The application is easy to use and provides a clean and simple interface.
@@ -43,7 +45,7 @@ npm install
 - Create a new Firebase project and enable Firestore.
 - Copy Firebase configuration settings into a JavaScript file `firebase.js` within the `src` directory of the project:
 
-```env
+```
 REACT_APP_FIREBASE_API_KEY=<your_api_key> REACT_APP_FIREBASE_AUTH_DOMAIN=<your_auth_domain> REACT_APP_FIREBASE_PROJECT_ID=<your_project_id> REACT_APP_FIREBASE_STORAGE_BUCKET=<your_storage_bucket> REACT_APP_FIREBASE_MESSAGING_SENDER_ID=<your_messaging_sender_id> REACT_APP_FIREBASE_APP_ID=<your_app_id>
 ```
 
