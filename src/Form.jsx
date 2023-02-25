@@ -6,8 +6,8 @@ import { db } from "./firebase";
 const Form = () => {
   const style = {
     form: `grid grid-cols-5 items-center w-full gap-5 `,
-    input: `bg-transparent text-[18px] w-full col-span-4  py-4 h-[35px] outline-none px-4 rounded-sm border-image`,
-    button: `bg-yellow col-span-1 rounded-sm w-[100%]  py-[15px]  mx-auto text-black text-[30px]`,
+    input: `bg-transparent text-[18px] w-full col-span-4  py-4 h-[35px] outline-none px-4 rounded-sm border-image sm:text-[16px] sm:py-2`,
+    button: `bg-yellow col-span-1 rounded-sm w-[100%]  py-[15px]  mx-auto text-black text-[30px] sm:py-2`,
     add: `mx-auto`,
   };
 

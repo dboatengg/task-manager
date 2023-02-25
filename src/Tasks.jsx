@@ -5,8 +5,8 @@ import { deleteDoc, doc, updateDoc } from "firebase/firestore";
 
 const Tasks = ({ tasks }) => {
   const style = {
-    task: `my-3 text-[22px] rounded-sm bg-yellow py-1 px-3 grid grid-cols-4 items-center text-black task-border-image`,
-    taskCompleted: `my-3 text-[22px] rounded-sm bg-yellow-dark py-1 px-3 grid grid-cols-4 items-center text-black task-border-image`,
+    task: `my-3 text-[19px] rounded-sm bg-yellow py-1 px-3 grid grid-cols-4 items-center text-black task-border-image sm:text-[16px]`,
+    taskCompleted: `my-3 text-[19px] rounded-sm bg-yellow-dark py-1 px-3 grid grid-cols-4 items-center text-black task-border-image sm:text-[16px]`,
     buttons: `col-span-1 justify-self-end flex items-center gap-2 text-black`,
     btn: `cursor-pointer w-[30px]`,
     text: `col-span-3`,

@@ -19,10 +19,10 @@ const App = () => {
 
   const style = {
     bg: `bg-yellow-light h-screen w-full py-[50px] text-white font-shantell overflow-scroll`,
-    container: `bg-blue max-w-[600px] w-[90%] mx-auto p-[50px] rounded-md`,
-    title: `text-4xl text-center mb-5`,
-    text: `mt-[50px] text-2xl`,
-    count: `text-center`,
+    container: `bg-blue max-w-[600px] w-[90%] mx-auto p-[50px] rounded-md sm:p-[25px]`,
+    title: `text-4xl text-center mb-5 sm:text-2xl`,
+    text: `mt-[50px] text-2xl sm:text-[18px]`,
+    count: `text-center sm:text-[16px]`,
   };
 
   return (

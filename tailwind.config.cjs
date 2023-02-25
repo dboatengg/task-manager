@@ -2,6 +2,9 @@
 module.exports = {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
+    screens: {
+      sm: { max: "530px" }, // Small screen
+    },
     extend: {
       fontFamily: {
         shantell: ["Shantell Sans", "cursive"],
