@@ -46,7 +46,7 @@ npm install
 - Give your app a name
 - Register your app by following the instructions on the screen. 
 - Once you've registered your app, you'll be provided with a Firebase configuration object that contains your app's API keys and other configuration details.
-- Copy Firebase configuration settings into a JavaScript file `firebase.js` within the `src` directory of your project:
+- Copy the Firebase configuration object into a JavaScript file `firebase.js` within the `src` directory of your project:
 
 #### 4.  Start the application:
 
