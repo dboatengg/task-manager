@@ -38,8 +38,8 @@ npm install
 
 3.  Set up Firebase:
 
-- Create a new Firebase project and enable Firestore.
-- Copy Firebase configuration settings into a JavaScript file `firebase.js` within the `src` directory of the project:
+- Create a new Firebase project.
+- Copy Firebase configuration settings into a JavaScript file `firebase.js` within the `src` directory of your project:
 
 4.  Start the application:
 
