@@ -24,24 +24,31 @@ To run Task Manager, you'll need to have the following software installed on you
 
 To get started, follow these steps:
 
-1.  Clone the repository:
+#### 1.  Clone the repository:
 
 ```node
 git clone https://github.com/dboatengg/task-manager.git
 ```
 
-2.  Install the dependencies:
+#### 2.  Install the dependencies:
 
 ```node
 npm install
 ```
 
-3.  Set up Firebase:
-
-- Create a new Firebase project.
+#### 3.  Set up Firebase. Below are the steps to setup firebase (for those who are not familiar with Firebase and want to try out the project):
+- Go to the Firebase Console (console.firebase.google.com).
+- Click "Create a project".
+- Enter a name for your project.
+- Click on the "Create project".
+- Click on the "Continue" to go to the project dashboard.
+- Click on the "Web" icon to add a web app to your Firebase project.
+- Give your app a name
+- Register your app by following the instructions on the screen. 
+- Once you've registered your app, you'll be provided with a Firebase configuration object that contains your app's API keys and other configuration details.
 - Copy Firebase configuration settings into a JavaScript file `firebase.js` within the `src` directory of your project:
 
-4.  Start the application:
+#### 4.  Start the application:
 
 ```node
 npm run dev
