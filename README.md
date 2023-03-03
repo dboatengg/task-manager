@@ -4,7 +4,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Task Manager is a responsive ToDo application built with React and Firebase. It allows you to create, and delete tasks, and marks them as complete when you're done. The application is easy to use and provides a clean and simple interface.
+## About this Project
+Task Manager is one of the early projects I created to practice using React with Firebase. It's a simple responsive ToDo application where you can add and delete tasks. You can also mark tasks as completed.
+
+Kindly note that every task you add is public and can be viewed by other visitors on the site. Please do not add sensitive or confidential information as tasks.
+
+I hope you find this project useful for learning React and Firebase. Feel free to fork, clone, and modify the code to fit your needs. If you have any feedback or suggestions, please let me know by creating an issue or sending me a message.
 
 ## Built with
 
@@ -39,25 +44,15 @@ git clone https://github.com/dboatengg/task-manager.git
 npm install
 ```
 
-#### 3.  Set up Firebase. Below are the steps to setup firebase (for those who are not familiar with Firebase and want to try out the project):
-- Go to the Firebase Console (console.firebase.google.com).
-- Click "Create a project".
-- Enter a name for your project.
-- Click on the "Create project".
-- Click on the "Continue" to go to the project dashboard.
-- Click on the "Web" icon to add a web app to your Firebase project.
-- Give your app a name
-- Register your app by following the instructions on the screen. 
-- Once you've registered your app, you'll be provided with a Firebase configuration object that contains your app's API keys and other configuration details.
-- Copy the Firebase configuration object into a JavaScript file `firebase.js` within the `src` directory of your project:
+#### 3.  Create A Firebase project.
 
-#### 4.  Start the application:
+#### 4. Copy firebase configuration object into a JavaScript file `firebase.js` within the `src` directory of your project:
+
+#### 5.  Start the application:
 
 ```node
 npm run dev
 ```
-
-The application should now be running on [http://localhost:3000](http://localhost:3000/).
 
 ## Contributing
 
