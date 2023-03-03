@@ -11,6 +11,9 @@ Task Manager is a responsive ToDo application built with React and Firebase. It 
 - ReactJS
 - Firebase
 
+## Demo
+Check out the live demo [here](https://project-one-49179.web.app/).
+
 ## Getting Started
 
 ### Prerequisites
