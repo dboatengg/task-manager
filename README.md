@@ -17,7 +17,7 @@ I hope you find this project useful for learning React and Firebase. Feel free t
 - Firebase
 
 ## Demo
-Check out the live demo [here](https://project-one-49179.web.app/).
+Check out the live site [here](https://project-one-49179.web.app/).
 
 ## Getting Started
 
