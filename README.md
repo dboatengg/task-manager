@@ -56,7 +56,7 @@ npm run dev
 
 ## Contributing
 
-If you'd like to contribute to Task Manager, feel free to fork the repository and submit a pull request.
+Feel free to fork the repository and submit a pull request. You have to assigned to an issue for your PR to be accepted.
 
 ## Author
 
